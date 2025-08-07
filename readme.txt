@@ -1,0 +1,1 @@
+Plataforma Crypto Win - Archivos base para GitHub Pages

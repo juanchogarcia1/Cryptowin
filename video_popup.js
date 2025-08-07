@@ -1,0 +1,1 @@
+function openVideoPopup() { alert('Aquí se mostrará el video'); }
